@@ -26,4 +26,4 @@ class SelectView{
     });
   };
 }
-module.exports = SelectView;
+export { SelectView };
